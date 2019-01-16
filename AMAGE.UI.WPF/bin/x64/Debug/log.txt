@@ -1,0 +1,123 @@
+
+
+ 11.04.2017 23:53:11
+ No imaging component suitable to complete this operation was found.
+
+    at System.Windows.Media.Imaging.BitmapDecoder.SetupDecoderFromUriOrStream(Uri uri, Stream stream, BitmapCacheOption cacheOption, Guid& clsId, Boolean& isOriginalWritable, Stream& uriStream, UnmanagedMemoryStream& unmanagedMemoryStream, SafeFileHandle& safeFilehandle)
+   at System.Windows.Media.Imaging.BitmapDecoder.CreateFromUriOrStream(Uri baseUri, Uri uri, Stream stream, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption, RequestCachePolicy uriCachePolicy, Boolean insertInDecoderCache)
+   at System.Windows.Media.Imaging.BitmapDecoder.Create(Stream bitmapStream, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption)
+   at AMAGE.Imaging.Adapters.DecoderSelector.GetDecoder(Stream source, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\DecoderSelector.cs:line 11
+   at AMAGE.Imaging.Adapters.ImageListAdapter.FromStream(Stream input) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\ImageListAdapter.cs:line 29
+   at AMAGE.Imaging.Adapters.ImageListAdapter.FromFile(String fileName) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\ImageListAdapter.cs:line 17
+   at AMAGE.Presentation.Presenters.ImageViewerPresenter.MenuPanel_OpenFile(Object sender, EventArgs e) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Presentation\Presenters\ImageViewerPresenter.cs:line 153
+
+ 11.04.2017 23:53:21
+ No imaging component suitable to complete this operation was found.
+
+    at System.Windows.Media.Imaging.BitmapDecoder.SetupDecoderFromUriOrStream(Uri uri, Stream stream, BitmapCacheOption cacheOption, Guid& clsId, Boolean& isOriginalWritable, Stream& uriStream, UnmanagedMemoryStream& unmanagedMemoryStream, SafeFileHandle& safeFilehandle)
+   at System.Windows.Media.Imaging.BitmapDecoder.CreateFromUriOrStream(Uri baseUri, Uri uri, Stream stream, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption, RequestCachePolicy uriCachePolicy, Boolean insertInDecoderCache)
+   at System.Windows.Media.Imaging.BitmapDecoder.Create(Stream bitmapStream, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption)
+   at AMAGE.Imaging.Adapters.DecoderSelector.GetDecoder(Stream source, BitmapCreateOptions createOptions, BitmapCacheOption cacheOption) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\DecoderSelector.cs:line 11
+   at AMAGE.Imaging.Adapters.ImageListAdapter.FromStream(Stream input) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\ImageListAdapter.cs:line 29
+   at AMAGE.Imaging.Adapters.ImageListAdapter.FromFile(String fileName) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Adapters\ImageListAdapter.cs:line 17
+   at AMAGE.Presentation.Presenters.ImageViewerPresenter.MenuPanel_OpenFile(Object sender, EventArgs e) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Presentation\Presenters\ImageViewerPresenter.cs:line 153
+
+ 12.04.2017 14:07:41
+ The parameter value must be greater than zero.
+Parameter name: pixelWidth
+
+    at System.Windows.Media.Imaging.RenderTargetBitmap..ctor(Int32 pixelWidth, Int32 pixelHeight, Double dpiX, Double dpiY, PixelFormat pixelFormat)
+   at AMAGE.UI.WPF.Tuners.Rotation3DTuner.Render(BitmapSource image, Matrix3D snapshot) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\Tuners\Rotation3DTuner.xaml.cs:line 97
+   at AMAGE.Imaging.Tools.Rotation3D.Apply(IImageList input, IImageList output) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Tools\Rotation3D.cs:line 51
+   at AMAGE.Imaging.Tools.Rotation3D.ApplyAsync(IImageList input, IImageList output, Action callback) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Tools\Rotation3D.cs:line 60
+   at AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:line 133
+
+ 12.04.2017 14:07:56
+ The parameter value must be greater than zero.
+Parameter name: pixelWidth
+
+    at System.Windows.Media.Imaging.RenderTargetBitmap..ctor(Int32 pixelWidth, Int32 pixelHeight, Double dpiX, Double dpiY, PixelFormat pixelFormat)
+   at AMAGE.UI.WPF.Tuners.Rotation3DTuner.Render(BitmapSource image, Matrix3D snapshot) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\Tuners\Rotation3DTuner.xaml.cs:line 97
+   at AMAGE.Imaging.Tools.Rotation3D.Apply(IImageList input, IImageList output) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Tools\Rotation3D.cs:line 51
+   at AMAGE.Imaging.Tools.Rotation3D.ApplyAsync(IImageList input, IImageList output, Action callback) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\Tools\Rotation3D.cs:line 60
+   at AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) in E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:line 133
+
+ 5/1/2017 7:57:27 AM
+ This image is not supported
+
+    в AMAGE.Imaging.Adapters.ImageListAdapter.Coalesce() в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 155
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromStream(Stream input) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 49
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromFile(String fileName) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 18
+   в AMAGE.Presentation.Presenters.ImageViewerPresenter.MenuPanel_OpenFile(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageViewerPresenter.cs:строка 124
+
+ 5/3/2017 12:33:06 AM
+ This image is not supported
+
+    в AMAGE.Imaging.Adapters.ImageListAdapter.Coalesce() в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 155
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromStream(Stream input) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 49
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromFile(String fileName) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 18
+   в AMAGE.Presentation.Presenters.ImageViewerPresenter.MenuPanel_OpenFile(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageViewerPresenter.cs:строка 124
+
+ 5/3/2017 1:25:44 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:25:53 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:26:01 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:26:06 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:26:59 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:27:11 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 5/3/2017 1:29:12 AM
+ Попытка деления на нуль.
+
+    в System.Windows.Media.Imaging.WriteableBitmapExtensions.Convolute(WriteableBitmap bmp, Int32[,] kernel, Int32 kernelFactorSum, Int32 kernelOffsetSum) в d:\Private\Development\WriteableBitmapEx\trunk\Source\WriteableBitmapEx\WriteableBitmapFilterExtensions.cs:строка 169
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImage input, IImage output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 49
+   в AMAGE.Imaging.Tools.Convolution.Apply(IImageList input, IImageList output) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Tools\Convolution.cs:строка 39
+   в AMAGE.Presentation.Presenters.ImageEditorPresenter.ToolPanel_Tuning(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageEditorPresenter.cs:строка 137
+
+ 6/4/2017 8:46:20 AM
+ This image is not supported
+
+    в AMAGE.Imaging.Adapters.ImageListAdapter.Coalesce() в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 155
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromStream(Stream input) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 49
+   в AMAGE.Imaging.Adapters.ImageListAdapter.FromFile(String fileName) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\Adapters\ImageListAdapter.cs:строка 18
+   в AMAGE.Presentation.Presenters.ImageViewerPresenter.MenuPanel_OpenFile(Object sender, EventArgs e) в E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Presentation\Presenters\ImageViewerPresenter.cs:строка 124

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePane Name="uiMenuPane" DockWidth="135">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Меню" IsSelected="True" ContentId="0" CanClose="False" />
+    </LayoutAnchorablePane>
+    <LayoutDocumentPane DockWidth="0.721130221130221*" />
+    <LayoutAnchorablePane Name="uiToolPane" DockWidth="142">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Статичные" IsSelected="True" CanClose="False" />
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Анимационные" CanClose="False" />
+    </LayoutAnchorablePane>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden />
+</LayoutRoot>

@@ -1,0 +1,19 @@
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Common\bin\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Common\bin\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Common\obj\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Common\obj\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Common\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Common\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Common\obj\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Common\obj\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Common\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Common\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Common\obj\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Common\obj\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Common\obj\x64\Release\AMAGE.Common.csprojResolveAssemblyReference.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\bin\x64\Release\AMAGE.Common.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\obj\x64\Release\AMAGE.Common.csprojAssemblyReference.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\obj\x64\Release\AMAGE.Common.csproj.CoreCompileInputs.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\obj\x64\Release\AMAGE.Common.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Common\obj\x64\Release\AMAGE.Common.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePane DockWidth="0.358971328120264*">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Menu" IsSelected="True" ContentId="uiMenu" CanClose="False" LastActivationTimeStamp="01/16/2019 17:09:00" />
+    </LayoutAnchorablePane>
+    <LayoutAnchorablePane DockWidth="1.10587250085766*" FloatingWidth="641" FloatingHeight="727" FloatingLeft="1379" FloatingTop="534">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Image" IsSelected="True" ContentId="uiImages" FloatingLeft="1379" FloatingTop="534" FloatingWidth="641" FloatingHeight="727" CanClose="False" LastActivationTimeStamp="01/16/2019 17:09:03" />
+    </LayoutAnchorablePane>
+    <LayoutAnchorablePane DockWidth="0.894127499142359*" FloatingWidth="562" FloatingHeight="712" FloatingLeft="1624" FloatingTop="545">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Tools" IsSelected="True" ContentId="uiTools" FloatingLeft="1624" FloatingTop="545" FloatingWidth="562" FloatingHeight="712" CanClose="False" LastActivationTimeStamp="01/16/2019 17:09:05" />
+    </LayoutAnchorablePane>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden />
+</LayoutRoot>

@@ -1,0 +1,529 @@
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET.Core.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET-x64.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET.Wrapper-x64.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET.Core.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET-x64.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\Magick.NET.Wrapper-x64.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ImageEditor.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ImagePanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\MenuPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ToolPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\About.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ImageEditor.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ImagePanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\MenuPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ImageEditing\ToolPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\Settings.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\TuningDialogs\Rotation3DTuningDialog.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\TuningDialogs\SnapshotTuningDialog.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\Settings.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\TuningDialogs\Rotation3DTuningDialog.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.UI.WPF\obj\x64\Release\TuningDialogs\SnapshotTuningDialog.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Microsoft.Expression.Drawing.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.DataGrid.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\de\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\es\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\fr\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\it\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ja\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ko\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\About.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\About.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll.config
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll.config
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\About.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Settings.g.cs
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.UI.WPF\obj\x64\Release\Settings.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll.config
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll.config
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Settings.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\About.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Settings.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+F:\Прожиг\Проект\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll.config
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll.config
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojResolveAssemblyReference.cache
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Settings.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\About.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Settings.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.Cache
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+F:\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe.config
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.exe
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\3DTools.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\CroppingAdorner.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\Gif.Components.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Imaging.dll.config
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Presentation.dll.config
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\LightInject.xml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Imaging.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\AMAGE.Presentation.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csprojAssemblyReference.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Styles\LightSky.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\About.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Settings.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE_MarkupCompile.lref
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\About.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImageEditor.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanel.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ImagePanelGroup.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\MenuPanel.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanel.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ImageEditor\ToolPanelGroup.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Settings.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ConvolutionTuner.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\ExternalOverlayTuner.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Rotation3DTuner.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\SnapshotTuner.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\Tuners\Tuner.baml
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.g.resources
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.resources
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.Properties.Resources.ru.resources
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.GenerateResource.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.CoreCompileInputs.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\ru\AMAGE.resources.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.UI.WPF.csproj.CopyComplete
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.exe
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.UI.WPF\obj\x64\Release\AMAGE.pdb

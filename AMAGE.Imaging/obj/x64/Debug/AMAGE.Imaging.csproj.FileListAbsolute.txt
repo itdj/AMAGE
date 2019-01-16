@@ -1,0 +1,87 @@
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll.config
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET-x64.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET.Core.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET.Wrapper-x64.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET-x64.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET.Core.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\Magick.NET.Wrapper-x64.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - FAST\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Imaging\bin\x64\Debug\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\AMAGE.Imaging.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\Gif.Components.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.Properties.Resources.ru.resources
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.csproj.GenerateResource.Cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\ru\AMAGE.Imaging.resources.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Imaging\obj\x64\Debug\AMAGE.Imaging.pdb

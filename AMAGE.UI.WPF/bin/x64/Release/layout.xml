@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePane DockWidth="0.5*">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Меню" IsSelected="True" ContentId="uiMenu" CanClose="False" LastActivationTimeStamp="01/16/2019 17:06:52" />
+    </LayoutAnchorablePane>
+    <LayoutAnchorablePane DockWidth="1.17432955243834*" FloatingWidth="562" FloatingHeight="712" FloatingLeft="930" FloatingTop="524">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Изображение" IsSelected="True" ContentId="uiImages" FloatingLeft="930" FloatingTop="524" FloatingWidth="562" FloatingHeight="712" CanClose="False" LastActivationTimeStamp="01/16/2019 17:02:44" />
+    </LayoutAnchorablePane>
+    <LayoutAnchorablePane DockWidth="0.825670447561656*" FloatingWidth="562" FloatingHeight="712" FloatingLeft="965" FloatingTop="520">
+      <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Инструменты" IsSelected="True" ContentId="uiTools" FloatingLeft="965" FloatingTop="520" FloatingWidth="562" FloatingHeight="712" CanClose="False" LastActivationTimeStamp="01/16/2019 17:05:08" />
+    </LayoutAnchorablePane>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden />
+</LayoutRoot>

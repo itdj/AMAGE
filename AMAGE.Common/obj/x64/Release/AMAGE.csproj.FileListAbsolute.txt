@@ -1,0 +1,4 @@
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE\bin\x64\Release\AMAGE.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE\bin\x64\Release\AMAGE.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE\obj\x64\Release\AMAGE.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE\obj\x64\Release\AMAGE.pdb

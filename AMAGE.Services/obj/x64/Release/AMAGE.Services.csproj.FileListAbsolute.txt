@@ -1,0 +1,37 @@
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\bin\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\bin\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\obj\x64\Release\AMAGE.Services.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\obj\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE\AMAGE.Services\obj\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Shared.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Shared.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE 99\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE - CRYSTAL RELEASE\AMAGE.Services\obj\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\bin\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\bin\x64\Release\AMAGE.Common.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\obj\x64\Release\AMAGE.Services.csprojResolveAssemblyReference.cache
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\obj\x64\Release\AMAGE.Services.dll
+E:\DM-DATA\_programming\Visual C#\AMAGE 3\AMAGE.Services\obj\x64\Release\AMAGE.Services.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\bin\x64\Release\AMAGE.Services.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\bin\x64\Release\AMAGE.Services.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\bin\x64\Release\AMAGE.Common.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\bin\x64\Release\AMAGE.Common.pdb
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\obj\x64\Release\AMAGE.Services.csprojAssemblyReference.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\obj\x64\Release\AMAGE.Services.csproj.CoreCompileInputs.cache
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\obj\x64\Release\AMAGE.Services.csproj.CopyComplete
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\obj\x64\Release\AMAGE.Services.dll
+E:\DM-FILES\Прожиг\Проект Visual Studio\AMAGE.Services\obj\x64\Release\AMAGE.Services.pdb
